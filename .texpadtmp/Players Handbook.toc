@@ -1,0 +1,40 @@
+\contentsline {chapter}{Contents}{2}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}The World of Haeckel}{3}{chapter.1}
+\contentsline {subsection}{Key Concepts}{3}{section*.2}
+\contentsline {paragraph}{Exploration \& Campaign Play}{3}{section*.3}
+\contentsline {paragraph}{Genre}{3}{section*.4}
+\contentsline {paragraph}{Political Intrigue}{3}{section*.5}
+\contentsline {paragraph}{Discovery and Exploration}{3}{section*.6}
+\contentsline {paragraph}{The Dread Gates}{4}{section*.7}
+\contentsline {paragraph}{Character Gameplay}{4}{section*.8}
+\contentsline {paragraph}{The Invisible Mage War}{4}{section*.9}
+\contentsline {paragraph}{The esoteric nature of Magic}{4}{section*.10}
+\contentsline {paragraph}{Craftsmanship}{4}{section*.11}
+\contentsline {subsection}{Themes}{4}{section*.12}
+\contentsline {paragraph}{Ignorance vs Knowledge}{4}{section*.13}
+\contentsline {paragraph}{Pandora's Box}{4}{section*.14}
+\contentsline {subsection}{Gameplay}{5}{section*.15}
+\contentsline {subsubsection}{Exploration}{5}{section*.16}
+\contentsline {subsection}{Brief Timeline of Events}{5}{section*.17}
+\contentsline {subsection}{Current History}{5}{section*.18}
+\contentsline {subsection}{Demographics Overview}{5}{section*.19}
+\contentsline {subsection}{Geography Overview}{5}{section*.20}
+\contentsline {paragraph}{Ablon}{5}{section*.21}
+\contentsline {paragraph}{Avalonia}{5}{section*.22}
+\contentsline {paragraph}{Brouliard}{5}{section*.23}
+\contentsline {paragraph}{Midgaard}{5}{section*.24}
+\contentsline {paragraph}{Nes}{6}{section*.25}
+\contentsline {paragraph}{Nosquam}{6}{section*.26}
+\contentsline {paragraph}{Ubris Furor}{6}{section*.27}
+\contentsline {subsection}{Cultures Overview}{6}{section*.28}
+\contentsline {paragraph}{CL 0 - Savage}{6}{section*.29}
+\contentsline {paragraph}{CL 1 - Stone Age}{6}{section*.30}
+\contentsline {paragraph}{CL 2 - Bronze Age}{6}{section*.31}
+\contentsline {paragraph}{CL 3 - Iron Age}{6}{section*.32}
+\contentsline {paragraph}{CL 4 - Classical}{6}{section*.33}
+\contentsline {paragraph}{CL 5 - Dark Age}{6}{section*.34}
+\contentsline {paragraph}{CL 6 - Early Medieval}{6}{section*.35}
+\contentsline {paragraph}{CL 7 - Medieval}{6}{section*.36}
+\contentsline {paragraph}{CL 8 - Chivalric}{6}{section*.37}
+\contentsline {paragraph}{CL 9 - Renaissance}{7}{section*.38}
+\contentsline {subsection}{Technology Overview}{7}{section*.39}

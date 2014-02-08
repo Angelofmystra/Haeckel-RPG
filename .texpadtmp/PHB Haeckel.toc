@@ -1,0 +1,440 @@
+\contentsline {paragraph}{World Designers:}{ii}{section*.1}
+\contentsline {paragraph}{Original Conception:}{ii}{section*.2}
+\contentsline {paragraph}{Assistant Producer:}{ii}{section*.3}
+\contentsline {paragraph}{Additional Material:}{ii}{section*.4}
+\contentsline {paragraph}{Editor:}{ii}{section*.5}
+\contentsline {paragraph}{Art Director:}{ii}{section*.6}
+\contentsline {paragraph}{Lead writer:}{ii}{section*.7}
+\contentsline {paragraph}{Layout and Typesetting:}{ii}{section*.8}
+\contentsline {paragraph}{Special Thanks}{ii}{section*.9}
+\contentsline {chapter}{Contents}{iii}{section*.10}
+\contentsline {chapter}{\chapternumberline {1}The World of Haeckel}{1}{chapter.1}
+\contentsline {subsection}{How to use this book}{3}{section*.11}
+\contentsline {subsection}{Chapter by Chapter}{3}{section*.12}
+\contentsline {section}{Genre}{3}{section*.13}
+\contentsline {section}{The Realm of Haeckel}{3}{section*.14}
+\contentsline {subsection}{The Dread Gates}{3}{section*.15}
+\contentsline {subsection}{The Powers That Be}{4}{section*.16}
+\contentsline {subsection}{The Invisible War}{4}{section*.17}
+\contentsline {paragraph}{The esoteric nature of Magic}{4}{section*.18}
+\contentsline {section}{History}{4}{section*.19}
+\contentsline {subsection}{The Time Before}{4}{section*.20}
+\contentsline {subsection}{The Long Summer}{5}{section*.21}
+\contentsline {subsection}{The Fall}{5}{section*.22}
+\contentsline {subsection}{The Great War}{5}{section*.23}
+\contentsline {subsection}{The Hour of the Knife}{6}{section*.24}
+\contentsline {subsection}{The Present}{7}{section*.25}
+\contentsline {section}{The Geography of Haeckel}{7}{section*.26}
+\contentsline {paragraph}{Exploration \& Campaign Play}{8}{section*.27}
+\contentsline {paragraph}{Political Intrigue}{8}{section*.28}
+\contentsline {paragraph}{Discovery and Exploration}{8}{section*.29}
+\contentsline {paragraph}{Character Gameplay}{8}{section*.30}
+\contentsline {paragraph}{Craftsmanship}{8}{section*.31}
+\contentsline {subsection}{Ablon}{8}{section*.32}
+\contentsline {subsection}{Avalonia}{8}{section*.33}
+\contentsline {subsection}{Brouliard}{9}{section*.34}
+\contentsline {subsection}{Midgaard}{9}{section*.35}
+\contentsline {subsection}{Nes}{9}{section*.36}
+\contentsline {paragraph}{Nosquam}{9}{section*.37}
+\contentsline {subsection}{Ubris Furor}{10}{section*.38}
+\contentsline {section}{Culture}{10}{section*.39}
+\contentsline {paragraph}{CL 0 - Savage}{10}{section*.40}
+\contentsline {paragraph}{CL 1 - Stone Age}{10}{section*.41}
+\contentsline {paragraph}{CL 2 - Bronze Age}{10}{section*.42}
+\contentsline {paragraph}{CL 3 - Iron Age}{10}{section*.43}
+\contentsline {paragraph}{CL 4 - Classical}{10}{section*.44}
+\contentsline {paragraph}{CL 5 - Dark Age}{10}{section*.45}
+\contentsline {paragraph}{CL 6 - Early Medieval}{10}{section*.46}
+\contentsline {paragraph}{CL 7 - Medieval}{10}{section*.47}
+\contentsline {paragraph}{CL 8 - Chivalric}{10}{section*.48}
+\contentsline {paragraph}{CL 9 - Renaissance}{10}{section*.49}
+\contentsline {section}{Technology Overview}{10}{section*.50}
+\contentsline {subsection}{Cartography}{10}{section*.51}
+\contentsline {subsection}{Gunpowder}{10}{section*.52}
+\contentsline {subsection}{Communication}{11}{section*.53}
+\contentsline {subsection}{Travel}{11}{section*.54}
+\contentsline {subsection}{Printing Press}{11}{section*.55}
+\contentsline {subsection}{Education}{11}{section*.56}
+\contentsline {section}{Lexicon}{11}{section*.57}
+\contentsline {section}{Adventure Sites}{11}{section*.58}
+\contentsline {chapter}{\chapternumberline {2}Character Creation}{13}{chapter.2}
+\contentsline {section}{Basic System 1st Level}{15}{section*.59}
+\contentsline {section}{Advanced System 1st level}{15}{section*.60}
+\contentsline {section}{0th Level}{16}{section*.61}
+\contentsline {chapter}{\chapternumberline {3}Races}{17}{chapter.3}
+\contentsline {section}{Approaches}{18}{section*.62}
+\contentsline {subsection}{Everyone is Human}{18}{section*.63}
+\contentsline {section}{Overview}{18}{section*.64}
+\contentsline {section}{Dark Elf}{19}{section*.65}
+\contentsline {paragraph}{Homelands}{19}{section*.66}
+\contentsline {section}{Dwarf}{19}{section*.67}
+\contentsline {paragraph}{Ability Scores}{19}{section*.68}
+\contentsline {paragraph}{Senses}{19}{section*.69}
+\contentsline {paragraph}{Resistances}{19}{section*.70}
+\contentsline {paragraph}{Weaknesses}{19}{section*.71}
+\contentsline {section}{Duergar}{19}{section*.72}
+\contentsline {paragraph}{Ability Scores}{19}{section*.73}
+\contentsline {paragraph}{Senses}{19}{section*.74}
+\contentsline {paragraph}{Resistances}{19}{section*.75}
+\contentsline {paragraph}{Weaknesses}{19}{section*.76}
+\contentsline {paragraph}{Alignment}{19}{section*.77}
+\contentsline {section}{Fire Giant}{21}{section*.78}
+\contentsline {paragraph}{Ability Scores}{21}{section*.79}
+\contentsline {paragraph}{Senses}{21}{section*.80}
+\contentsline {paragraph}{Resistances}{21}{section*.81}
+\contentsline {paragraph}{Weaknesses}{21}{section*.82}
+\contentsline {paragraph}{Alignment}{21}{section*.83}
+\contentsline {section}{Gnoll}{21}{section*.84}
+\contentsline {paragraph}{Ability Scores}{21}{section*.85}
+\contentsline {paragraph}{Senses}{21}{section*.86}
+\contentsline {paragraph}{Resistances}{21}{section*.87}
+\contentsline {paragraph}{Weaknesses}{21}{section*.88}
+\contentsline {paragraph}{Pack}{21}{section*.89}
+\contentsline {paragraph}{Baying for Blood}{21}{section*.90}
+\contentsline {paragraph}{Moon Sensitivity}{21}{section*.91}
+\contentsline {section}{Gnome}{21}{section*.92}
+\contentsline {paragraph}{Ability Scores}{21}{section*.93}
+\contentsline {paragraph}{Senses}{21}{section*.94}
+\contentsline {paragraph}{Resistances}{21}{section*.95}
+\contentsline {paragraph}{Weaknesses}{21}{section*.96}
+\contentsline {paragraph}{Hyper-Intellect}{21}{section*.97}
+\contentsline {section}{Half Elves}{21}{section*.98}
+\contentsline {paragraph}{Ability Scores}{21}{section*.99}
+\contentsline {paragraph}{Senses}{21}{section*.100}
+\contentsline {paragraph}{Resistances}{22}{section*.101}
+\contentsline {paragraph}{Weaknesses}{22}{section*.102}
+\contentsline {section}{Halfling}{22}{section*.103}
+\contentsline {paragraph}{Ability Scores}{22}{section*.104}
+\contentsline {paragraph}{Senses}{22}{section*.105}
+\contentsline {paragraph}{Resistances}{22}{section*.106}
+\contentsline {paragraph}{Weaknesses}{22}{section*.107}
+\contentsline {paragraph}{Voracious Eaters}{22}{section*.108}
+\contentsline {paragraph}{Sling Sharpshooters}{22}{section*.109}
+\contentsline {section}{Human}{22}{section*.110}
+\contentsline {paragraph}{Ability Scores}{22}{section*.111}
+\contentsline {paragraph}{Senses}{22}{section*.112}
+\contentsline {paragraph}{Resistances}{22}{section*.113}
+\contentsline {paragraph}{Weaknesses}{22}{section*.114}
+\contentsline {paragraph}{Ingenuity}{22}{section*.115}
+\contentsline {paragraph}{Regional Background}{22}{section*.116}
+\contentsline {section}{Minotaur}{22}{section*.117}
+\contentsline {paragraph}{Ability Scores}{23}{section*.118}
+\contentsline {paragraph}{Senses}{23}{section*.119}
+\contentsline {paragraph}{Resistances}{23}{section*.120}
+\contentsline {paragraph}{Weaknesses}{23}{section*.121}
+\contentsline {paragraph}{Alignment}{23}{section*.122}
+\contentsline {paragraph}{Temper}{23}{section*.123}
+\contentsline {section}{Tzuchi}{23}{section*.124}
+\contentsline {paragraph}{Ability Scores}{23}{section*.125}
+\contentsline {paragraph}{Senses}{23}{section*.126}
+\contentsline {paragraph}{Resistances}{23}{section*.127}
+\contentsline {paragraph}{Weaknesses}{23}{section*.128}
+\contentsline {paragraph}{Alignment}{23}{section*.129}
+\contentsline {paragraph}{Venomous Bite}{23}{section*.130}
+\contentsline {paragraph}{Sociopathy}{23}{section*.131}
+\contentsline {paragraph}{Order of the Faith}{23}{section*.132}
+\contentsline {paragraph}{Hidden Agenda}{23}{section*.133}
+\contentsline {section}{Wood Elf}{23}{section*.134}
+\contentsline {paragraph}{Ability Scores}{24}{section*.135}
+\contentsline {paragraph}{Senses}{24}{section*.136}
+\contentsline {paragraph}{Resistances}{24}{section*.137}
+\contentsline {paragraph}{Weaknesses}{24}{section*.138}
+\contentsline {paragraph}{No Teamwork}{24}{section*.139}
+\contentsline {paragraph}{Martial Arts}{24}{section*.140}
+\contentsline {chapter}{\chapternumberline {4}Core Classes}{25}{chapter.4}
+\contentsline {section}{Fighter}{28}{section*.141}
+\contentsline {section}{Wizard}{28}{section*.142}
+\contentsline {section}{Rogue}{28}{section*.143}
+\contentsline {section}{Cleric}{28}{section*.144}
+\contentsline {chapter}{\chapternumberline {5}Personality}{29}{chapter.5}
+\contentsline {subsection}{Ethos}{32}{section*.145}
+\contentsline {paragraph}{Good}{32}{section*.146}
+\contentsline {paragraph}{Evil}{32}{section*.147}
+\contentsline {subsection}{Spheres}{32}{section*.148}
+\contentsline {subsection}{World View}{32}{section*.149}
+\contentsline {subsubsection}{Philosophies}{32}{section*.150}
+\contentsline {paragraph}{Stoicism}{32}{section*.151}
+\contentsline {paragraph}{Hedonism}{32}{section*.152}
+\contentsline {paragraph}{State consequentialism}{32}{section*.153}
+\contentsline {paragraph}{Ideologies}{32}{section*.154}
+\contentsline {subsection}{Politics}{32}{section*.155}
+\contentsline {paragraph}{Imperial vs Provincial}{32}{section*.156}
+\contentsline {paragraph}{Monarchy vs Republic}{32}{section*.157}
+\contentsline {paragraph}{Secular vs Theocratic}{32}{section*.158}
+\contentsline {chapter}{\chapternumberline {6}Campaign Classes}{33}{chapter.6}
+\contentsline {section}{Dying Rat Minotaur}{36}{section*.160}
+\contentsline {section}{Crusader Minotaur}{36}{section*.161}
+\contentsline {section}{Midgaardian Spymaster}{36}{section*.162}
+\contentsline {section}{Midgaardian Crusader}{36}{section*.163}
+\contentsline {section}{Midgaardian Knight Errant}{36}{section*.164}
+\contentsline {section}{Brouliard Cavalier}{36}{section*.165}
+\contentsline {section}{Brouliard Courtier}{36}{section*.166}
+\contentsline {section}{Brouliard Musketeer}{36}{section*.167}
+\contentsline {section}{Nessian Vikingr}{36}{section*.168}
+\contentsline {section}{Nessian Ranger of the Black Thumb}{36}{section*.169}
+\contentsline {section}{Abloni Gladiator}{36}{section*.170}
+\contentsline {section}{Abloni Legionnaire Mercenary}{36}{section*.171}
+\contentsline {section}{Abyssian Witch Doctor}{36}{section*.172}
+\contentsline {section}{Abyssian Chariot Archer}{37}{section*.173}
+\contentsline {section}{Venturer}{37}{section*.174}
+\contentsline {chapter}{\chapternumberline {7}Backgrounds}{39}{chapter.7}
+\contentsline {section}{Social Class}{39}{section*.175}
+\contentsline {section}{Family}{39}{section*.176}
+\contentsline {paragraph}{How did your parents treat you?}{39}{section*.177}
+\contentsline {paragraph}{How many siblings do you have?}{39}{section*.178}
+\contentsline {paragraph}{What are your relationships with them like?}{39}{section*.179}
+\contentsline {paragraph}{Was you firstborn or what?}{39}{section*.180}
+\contentsline {paragraph}{What is the situation with your family?}{39}{section*.181}
+\contentsline {chapter}{\chapternumberline {8}Feats}{41}{chapter.8}
+\contentsline {subsection}{General}{41}{section*.182}
+\contentsline {paragraph}{Dead Man Walking}{41}{section*.183}
+\contentsline {paragraph}{Haunted}{41}{section*.184}
+\contentsline {paragraph}{Jaded}{41}{section*.185}
+\contentsline {paragraph}{Redhead}{41}{section*.186}
+\contentsline {paragraph}{Reincarnated}{41}{section*.187}
+\contentsline {paragraph}{Coward}{41}{section*.188}
+\contentsline {paragraph}{Hardened Criminal}{42}{section*.189}
+\contentsline {paragraph}{Seasoned Traveller}{42}{section*.190}
+\contentsline {paragraph}{University Education}{42}{section*.191}
+\contentsline {paragraph}{Albino}{42}{section*.192}
+\contentsline {paragraph}{Machiavellian}{42}{section*.193}
+\contentsline {paragraph}{Vampirism}{42}{section*.194}
+\contentsline {paragraph}{Scholarly Skepticism}{42}{section*.195}
+\contentsline {paragraph}{Portents}{42}{section*.196}
+\contentsline {paragraph}{Smitten}{42}{section*.197}
+\contentsline {paragraph}{Military Veteran}{42}{section*.198}
+\contentsline {paragraph}{Damned}{42}{section*.199}
+\contentsline {paragraph}{Innocent}{42}{section*.200}
+\contentsline {paragraph}{Unyielding Devotion}{42}{section*.201}
+\contentsline {paragraph}{Paranoid}{42}{section*.202}
+\contentsline {paragraph}{Forsaken Thoughts}{42}{section*.203}
+\contentsline {subsection}{Flaws}{42}{section*.204}
+\contentsline {paragraph}{Near-sighted}{42}{section*.205}
+\contentsline {paragraph}{Braggart}{42}{section*.206}
+\contentsline {paragraph}{Eidetic Memory}{43}{section*.207}
+\contentsline {paragraph}{Alzheimers}{43}{section*.208}
+\contentsline {paragraph}{Know No Pain}{43}{section*.209}
+\contentsline {paragraph}{Tunnel Vision}{43}{section*.210}
+\contentsline {subsection}{Racial - Fire Giant}{43}{section*.211}
+\contentsline {paragraph}{Heart of Fire}{43}{section*.212}
+\contentsline {paragraph}{Door Smasher}{43}{section*.213}
+\contentsline {subsection}{Racial - Gnoll}{43}{section*.214}
+\contentsline {paragraph}{Refuse Eater}{43}{section*.215}
+\contentsline {paragraph}{The Hunt}{44}{section*.216}
+\contentsline {subsection}{Racial - Human}{44}{section*.217}
+\contentsline {paragraph}{Outlander}{44}{section*.218}
+\contentsline {subsection}{Racial - Wood Elves}{44}{section*.219}
+\contentsline {paragraph}{Woodland Traveller}{44}{section*.220}
+\contentsline {paragraph}{Squirrel}{44}{section*.221}
+\contentsline {paragraph}{At Peace with Nature}{44}{section*.222}
+\contentsline {subsection}{Racial - Dark Elf}{44}{section*.223}
+\contentsline {paragraph}{Improved Infravision}{44}{section*.224}
+\contentsline {paragraph}{Climb Steep Surfaces}{44}{section*.225}
+\contentsline {subsection}{Racial - Dwarf}{44}{section*.226}
+\contentsline {paragraph}{Unyielding before Death}{44}{section*.227}
+\contentsline {paragraph}{Dwarven Vigor}{44}{section*.228}
+\contentsline {paragraph}{Vengeance Seeker}{44}{section*.229}
+\contentsline {subsection}{Racial - Gnome}{45}{section*.230}
+\contentsline {paragraph}{Family Connections}{45}{section*.231}
+\contentsline {subsection}{Racial - Half Elf}{45}{section*.232}
+\contentsline {paragraph}{Stars in the Night Sky}{45}{section*.233}
+\contentsline {chapter}{\chapternumberline {9}Cosmology}{47}{chapter.9}
+\contentsline {section}{Creation Myths}{50}{section*.234}
+\contentsline {section}{Haeckel Pantheon}{51}{section*.235}
+\contentsline {subsection}{Aratron}{51}{section*.236}
+\contentsline {subsection}{Junon}{52}{section*.237}
+\contentsline {subsection}{Alesia}{52}{section*.238}
+\contentsline {subsection}{Gigas}{52}{section*.239}
+\contentsline {subsection}{The Priest King}{52}{section*.240}
+\contentsline {subsection}{The Dyad}{52}{section*.241}
+\contentsline {subsection}{Ma'asei}{52}{section*.242}
+\contentsline {subsection}{Magnus, Dante}{52}{section*.243}
+\contentsline {subsection}{Secretum}{52}{section*.244}
+\contentsline {subsection}{Nostra}{52}{section*.245}
+\contentsline {subsection}{Mewgner}{52}{section*.246}
+\contentsline {subsection}{The Hanged Man}{52}{section*.247}
+\contentsline {subsection}{Charon}{52}{section*.248}
+\contentsline {subsection}{Sich}{52}{section*.249}
+\contentsline {subsection}{Sanat}{52}{section*.250}
+\contentsline {subsection}{Ra Herakht}{52}{section*.251}
+\contentsline {subsection}{Tinu}{52}{section*.252}
+\contentsline {subsection}{Phex Eris}{52}{section*.253}
+\contentsline {subsection}{Waddell}{52}{section*.254}
+\contentsline {subsection}{Neyord}{52}{section*.255}
+\contentsline {subsection}{Asint}{52}{section*.256}
+\contentsline {subsection}{Ignis}{52}{section*.257}
+\contentsline {subsection}{Janus Thurinus}{52}{section*.258}
+\contentsline {section}{Abyssimiar Pantheon}{53}{section*.259}
+\contentsline {section}{The Seven Major Cosmologies of Haeckel}{54}{section*.260}
+\contentsline {subsection}{Ptolemaic Model}{54}{section*.261}
+\contentsline {subsection}{Medieval Philosophy}{54}{section*.262}
+\contentsline {subsection}{Cartesian Vortex}{54}{section*.263}
+\contentsline {subsection}{Memonaic Central Fire}{54}{section*.264}
+\contentsline {subsection}{Cyclic Oscillation}{54}{section*.265}
+\contentsline {subsection}{Celestial Sphere}{54}{section*.266}
+\contentsline {subsection}{Absolute Time and Space theorum}{54}{section*.267}
+\contentsline {chapter}{\chapternumberline {10}Equipment}{55}{chapter.10}
+\contentsline {section}{Simple Exploration Logistics}{57}{section*.268}
+\contentsline {section}{Starting Equipment Sets}{57}{section*.269}
+\contentsline {subsection}{Brouliard}{57}{section*.270}
+\contentsline {paragraph}{Socialite}{57}{section*.271}
+\contentsline {paragraph}{Dilettante}{57}{section*.272}
+\contentsline {paragraph}{Intriguer}{57}{section*.273}
+\contentsline {paragraph}{Swashbuckler}{57}{section*.274}
+\contentsline {paragraph}{Aristocrat}{57}{section*.275}
+\contentsline {paragraph}{Bounty Hunter}{57}{section*.276}
+\contentsline {paragraph}{Cutthroat}{57}{section*.277}
+\contentsline {paragraph}{Merchant Traveller}{57}{section*.278}
+\contentsline {paragraph}{Nessian Vikingr}{57}{section*.279}
+\contentsline {subsection}{General}{57}{section*.280}
+\contentsline {paragraph}{Abloni Free Gladiator}{57}{section*.281}
+\contentsline {paragraph}{Hunter}{58}{section*.282}
+\contentsline {paragraph}{North Wall Death Dealer}{58}{section*.283}
+\contentsline {section}{Equipment Kits}{58}{section*.284}
+\contentsline {paragraph}{Kit, Infiltration; Price 140 gp; Weight 15 lbs;}{58}{section*.285}
+\contentsline {paragraph}{Kit, Gear Maintenance Price 5 gp; Weight 2 lbs.}{58}{section*.286}
+\contentsline {paragraph}{Kit, Grooming; Price 1 gp; Weight 2 lbs.}{58}{section*.287}
+\contentsline {paragraph}{Kit, Fighter's; Price 9 gp; Weight 29 lbs.}{58}{section*.288}
+\contentsline {paragraph}{Kit, Cooking; Price 3 gp; Weight 16 lbs.}{58}{section*.289}
+\contentsline {paragraph}{Kit, Cleric's; Price 16 gp; Weight 32 lbs.}{58}{section*.290}
+\contentsline {paragraph}{Kit, Campsite; Price 12 gp; Weight 80 lbs.}{58}{section*.291}
+\contentsline {paragraph}{Kit, Breaker's; Price 353 gp; Weight 40 lbs.}{58}{section*.292}
+\contentsline {paragraph}{Kit, Riding; Price: 16gp; Weight 54 lbs.}{58}{section*.293}
+\contentsline {paragraph}{Kit, Rogue's; Price 50 gp; Weight 37 lbs.}{59}{section*.294}
+\contentsline {paragraph}{Kit, Gypsy Signal Kite}{59}{section*.295}
+\contentsline {paragraph}{Kit, Trapper's; Price 263 gp; Weight 90 lbs.}{59}{section*.296}
+\contentsline {chapter}{\chapternumberline {11}Friends and Foes}{61}{chapter.11}
+\contentsline {section}{Factions}{63}{section*.297}
+\contentsline {subsection}{The Enkertons}{63}{section*.298}
+\contentsline {subsection}{The Puritans}{63}{section*.299}
+\contentsline {subsection}{The Dark}{63}{section*.300}
+\contentsline {subsection}{The Asylum}{63}{section*.301}
+\contentsline {subsection}{Children of Luoyang Xi}{63}{section*.302}
+\contentsline {subsection}{Enclave of the Dying Rat}{63}{section*.303}
+\contentsline {subsection}{Order of the Black Thumb}{63}{section*.304}
+\contentsline {subsection}{The Grendel}{63}{section*.305}
+\contentsline {subsection}{The Phex}{63}{section*.306}
+\contentsline {section}{Important Characters}{64}{section*.307}
+\contentsline {subsection}{Jarl Holgerholm V of Nes}{64}{section*.308}
+\contentsline {paragraph}{Usual Location}{64}{section*.309}
+\contentsline {paragraph}{Common Knowledge}{64}{section*.310}
+\contentsline {paragraph}{Adventurers}{64}{section*.311}
+\contentsline {paragraph}{Allies}{64}{section*.312}
+\contentsline {paragraph}{Enemies}{64}{section*.313}
+\contentsline {paragraph}{History}{64}{section*.314}
+\contentsline {paragraph}{The True Danger}{64}{section*.315}
+\contentsline {subsection}{Grandfather of Assassins, Circle of the Draugr}{64}{section*.316}
+\contentsline {paragraph}{Usual Location}{64}{section*.317}
+\contentsline {paragraph}{Common Knowledge}{64}{section*.318}
+\contentsline {paragraph}{Adventurers}{64}{section*.319}
+\contentsline {paragraph}{Allies}{64}{section*.320}
+\contentsline {paragraph}{Enemies}{64}{section*.321}
+\contentsline {paragraph}{History}{64}{section*.322}
+\contentsline {paragraph}{The True Danger}{64}{section*.323}
+\contentsline {subsection}{Queen Sophia of Brouliard}{64}{section*.324}
+\contentsline {paragraph}{Usual Location}{64}{section*.325}
+\contentsline {paragraph}{Common Knowledge}{64}{section*.326}
+\contentsline {paragraph}{Adventurers}{64}{section*.327}
+\contentsline {paragraph}{Allies}{64}{section*.328}
+\contentsline {paragraph}{Enemies}{65}{section*.329}
+\contentsline {paragraph}{History}{65}{section*.330}
+\contentsline {paragraph}{The True Danger}{65}{section*.331}
+\contentsline {subsection}{Madame Jacquette, Bound concubine of Lord Maldol}{65}{section*.332}
+\contentsline {paragraph}{Usual Location}{65}{section*.333}
+\contentsline {paragraph}{Common Knowledge}{65}{section*.334}
+\contentsline {paragraph}{Adventurers}{65}{section*.335}
+\contentsline {paragraph}{Allies}{65}{section*.336}
+\contentsline {paragraph}{Enemies}{65}{section*.337}
+\contentsline {paragraph}{History}{65}{section*.338}
+\contentsline {paragraph}{The True Danger}{65}{section*.339}
+\contentsline {subsection}{Boris von Liebentodd, Steward of Nosquam}{65}{section*.340}
+\contentsline {paragraph}{Usual Location}{65}{section*.341}
+\contentsline {paragraph}{Common Knowledge}{65}{section*.342}
+\contentsline {paragraph}{Adventurers}{65}{section*.343}
+\contentsline {paragraph}{Allies}{65}{section*.344}
+\contentsline {paragraph}{Enemies}{65}{section*.345}
+\contentsline {paragraph}{History}{66}{section*.346}
+\contentsline {paragraph}{The True Danger}{66}{section*.347}
+\contentsline {subsection}{Higa von Mordenheim}{66}{section*.348}
+\contentsline {paragraph}{Usual Location}{66}{section*.349}
+\contentsline {paragraph}{Common Knowledge}{66}{section*.350}
+\contentsline {paragraph}{Adventurers}{66}{section*.351}
+\contentsline {paragraph}{Allies}{66}{section*.352}
+\contentsline {paragraph}{Enemies}{66}{section*.353}
+\contentsline {paragraph}{History}{66}{section*.354}
+\contentsline {paragraph}{The True Danger}{66}{section*.355}
+\contentsline {subsection}{Silence}{66}{section*.356}
+\contentsline {paragraph}{Usual Location}{66}{section*.357}
+\contentsline {paragraph}{Common Knowledge}{66}{section*.358}
+\contentsline {paragraph}{Adventurers}{66}{section*.359}
+\contentsline {paragraph}{Allies}{66}{section*.360}
+\contentsline {paragraph}{Enemies}{66}{section*.361}
+\contentsline {paragraph}{History}{66}{section*.362}
+\contentsline {paragraph}{The True Danger}{66}{section*.363}
+\contentsline {subsection}{Staind}{66}{section*.364}
+\contentsline {paragraph}{Usual Location}{66}{section*.365}
+\contentsline {paragraph}{Common Knowledge}{66}{section*.366}
+\contentsline {paragraph}{Adventurers}{66}{section*.367}
+\contentsline {paragraph}{Allies}{66}{section*.368}
+\contentsline {paragraph}{Enemies}{66}{section*.369}
+\contentsline {paragraph}{History}{66}{section*.370}
+\contentsline {paragraph}{The True Danger}{66}{section*.371}
+\contentsline {subsection}{Pharoah Auletes Nothos, The Flutist Bastard}{66}{section*.372}
+\contentsline {paragraph}{Usual Location}{66}{section*.373}
+\contentsline {paragraph}{Common Knowledge}{66}{section*.374}
+\contentsline {paragraph}{Adventurers}{66}{section*.375}
+\contentsline {paragraph}{Allies}{66}{section*.376}
+\contentsline {paragraph}{Enemies}{66}{section*.377}
+\contentsline {paragraph}{History}{66}{section*.378}
+\contentsline {paragraph}{The True Danger}{66}{section*.379}
+\contentsline {subsection}{Abloni Consul Gaius of the Julii}{66}{section*.380}
+\contentsline {paragraph}{Usual Location}{66}{section*.381}
+\contentsline {paragraph}{Common Knowledge}{66}{section*.382}
+\contentsline {paragraph}{Adventurers}{66}{section*.383}
+\contentsline {paragraph}{Allies}{66}{section*.384}
+\contentsline {paragraph}{Enemies}{66}{section*.385}
+\contentsline {paragraph}{History}{66}{section*.386}
+\contentsline {paragraph}{The True Danger}{66}{section*.387}
+\contentsline {subsection}{The Caramvambar Family}{66}{section*.388}
+\contentsline {paragraph}{Usual Location}{66}{section*.389}
+\contentsline {paragraph}{Common Knowledge}{66}{section*.390}
+\contentsline {paragraph}{Adventurers}{67}{section*.391}
+\contentsline {paragraph}{Allies}{67}{section*.392}
+\contentsline {paragraph}{Enemies}{67}{section*.393}
+\contentsline {paragraph}{History}{67}{section*.394}
+\contentsline {chapter}{\chapternumberline {12}The Campaign}{69}{chapter.12}
+\contentsline {subsection}{Experience}{70}{section*.396}
+\contentsline {subsection}{Power Curve}{70}{section*.397}
+\contentsline {subsection}{Player Agency}{70}{section*.398}
+\contentsline {subsection}{House Rules: Alchemy}{70}{section*.399}
+\contentsline {subsubsection}{Core Ingredients}{70}{section*.400}
+\contentsline {paragraph}{Aqua Vitae}{70}{section*.401}
+\contentsline {subsection}{House Rules: Herbalism}{70}{section*.402}
+\contentsline {subsection}{House Rules: Languages}{70}{section*.403}
+\contentsline {subsection}{Henchmen}{70}{section*.404}
+\contentsline {subsubsection}{The Lumberjack}{70}{section*.405}
+\contentsline {subsubsection}{The Albino Terror}{70}{section*.406}
+\contentsline {subsubsection}{The Feline Grace}{71}{section*.407}
+\contentsline {section}{Thieves Guilds of Haeckel}{71}{section*.408}
+\contentsline {section}{Campaign Play: Crime Rules}{71}{section*.409}
+\contentsline {section}{Restricted Goods}{71}{section*.410}
+\contentsline {appendix}{\chapternumberline {A}Example Sheets}{73}{appendix.A}
+\contentsline {section}{Human Fighters}{73}{section*.411}
+\contentsline {subsection}{The Hulking Brute}{73}{section*.412}
+\contentsline {subsection}{The Cunning Mercenary}{73}{section*.413}
+\contentsline {subsection}{The Dashing Swordsman}{73}{section*.414}
+\contentsline {subsection}{Dead Man Walking}{74}{section*.415}
+\contentsline {subsection}{The Hanged Man}{74}{section*.416}
+\contentsline {subsection}{The Weasel}{74}{section*.417}
+\contentsline {appendix}{\chapternumberline {B}Book of Villains}{75}{appendix.B}
+\contentsline {paragraph}{Introduction}{75}{section*.418}
+\contentsline {section}{Trauerfall the Spectre}{75}{section*.419}
+\contentsline {section}{Cwealm the Plunderer, Scion of Ma'asei}{75}{section*.420}
+\contentsline {section}{Abholzung the Bringer of Famine, Terror of Feykind}{76}{section*.421}
+\contentsline {section}{Bragol Amarth the Sudden Doom}{76}{section*.422}
+\contentsline {section}{Zyprexa, Seer of the Eternal Night}{77}{section*.423}
+\contentsline {section}{Del Ampa the Hooked Horror}{77}{section*.424}
+\contentsline {section}{Rock the }{77}{section*.425}
+\contentsline {section}{The Fist of Darkness, Dread Lord}{77}{section*.426}
+\contentsline {section}{The Taskmaster and Impudent Terror}{78}{section*.427}
+\contentsline {section}{Imperator of the Damned}{78}{section*.428}

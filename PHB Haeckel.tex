@@ -1,0 +1,354 @@
+\title{}
+
+%\author{oGs\_ MousE \& Dracs von Mordenheim}
+
+
+%\date{\today}
+
+\documentclass[8pt]{memoir} %, twocolumn
+
+  
+%\usepackage[cm]{fullpage}
+\usepackage[a4paper]{geometry}
+\usepackage{wrapfig}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{changepage}
+\usepackage{wallpaper}
+\usepackage{pdfpages}
+
+
+\usepackage{fancyhdr}
+
+\usepackage{xcolor}
+\usepackage{afterpage}
+
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+
+\usepackage[pdftex,bookmarks=true]{hyperref}
+
+\newlength{\mylen}
+\addtolength{\mylen}{\textheight}
+\addtolength{\mylen}{-16pt}
+\renewcommand{\familydefault}{\sfdefault}
+
+\setsecnumdepth{chapter}
+
+
+
+\begin{document}
+%\maketitle
+
+\frontmatter
+
+\newenvironment{changemargin}[2]{%
+\begin{list}{}{%
+\setlength{\topsep}{0pt}%
+\setlength{\leftmargin}{#1}%
+\setlength{\rightmargin}{#2}%
+\setlength{\listparindent}{\parindent}%
+\setlength{\itemindent}{\parindent}%
+\setlength{\parsep}{\parskip}%
+}%
+\item[]}{\end{list}}
+
+
+% Make one image take up the entire slide content area in beamer,.:
+% centered/centred full-screen image, with title:
+% This uses the whole screen except for the 1cm border around it
+% all. 128x96mm
+\newcommand{\titledFrameImage}[2]{
+\begin{frame}{#1}
+%\begin{changemargin}{-1cm}{-1cm}
+\begin{center}
+\includegraphics[width=108mm,height=\textheight,keepaspectratio]{#2}
+\end{center}
+%\end{changemargin}
+\end{frame}
+}
+
+% Make one image take up the entire slide content area in beamer.:
+% centered/centred full-screen image, no title:
+% This uses the whole screen except for the 1cm border around it
+% all. 128x96mm
+\newcommand{\plainFrameImage}[1]{
+\begin{frame}[plain]
+%\begin{changemargin}{-1cm}{-1cm}
+\begin{center}
+\includegraphics[width=108mm,height=76mm,keepaspectratio]{#1}
+\end{center}
+%\end{changemargin}
+\end{frame}
+}
+
+% Make one image take up the entire slide area, including borders, in beamer.:
+% centered/centred full-screen image, no title:
+% This uses the entire whole screen
+\newcommand{\maxFrameImage}[1]{
+\begin{frame}[plain]
+\begin{changemargin}{-1cm}{-1cm}
+\begin{center}
+\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{#1}
+\end{center}
+\end{changemargin}
+\end{frame}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% TITLE PAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\includegraphics{black_knight}
+
+\newgeometry{left=0cm,top=0cm,right=0cm}
+
+\maxFrameImage{black_knight}
+\pagecolor{black}\afterpage{\nopagecolor}
+\clearpage
+\restoregeometry
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% CREDITS PAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\newpage
+
+\pagecolor{gray}\afterpage{\nopagecolor}
+
+%\begin{figure}
+%\includegraphics[scale=0.3]{rakaarth4}
+%\end{figure}
+
+\begin{picture}(0,0)
+        \put(-40,0){\includegraphics[width=200mm]{Blackwolf}}
+        \put(-80,26){
+            \parbox[t]{90mm}{
+            \begin{flushright}
+            \begin{scriptsize}
+            \textsf{
+            }
+            \end{scriptsize}
+            \end{flushright}
+            }
+        }
+\end{picture}
+\paragraph{World Designers:} oGsMousE, Der Mordenheim
+\paragraph{Original Conception:} Der Mordenheim
+\paragraph{Assistant Producer:} Ninjacop
+\paragraph{Additional Material:} Backstabber, Ninjacop
+\paragraph{Editor:} Mother
+\paragraph{Art Director:} Der Mordenheim
+\paragraph{Lead writer:} oGsMousE
+\paragraph{Layout and Typesetting:} oGsMousE and Der Mordenheim
+\paragraph{Special Thanks} To Rachel and her family. Lots of love. And to Matty, Jay and Emma, and all other vile things that spawn from London. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% TABLE OF CONTENTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\pagecolor{gray}\afterpage{\nopagecolor}
+
+%\begin{figure}
+%\includegraphics[scale=0.3]{rakaarth4}
+%\end{figure}
+
+\begin{picture}(0,0)
+        \put(-40,0){\includegraphics[width=200mm]{Blackwolf}}
+        \put(-80,26){
+            \parbox[t]{90mm}{
+            \begin{flushright}
+            \begin{scriptsize}
+            \textsf{
+            }
+            \end{scriptsize}
+            \end{flushright}
+            }
+        }
+\end{picture}
+
+
+
+\begin{multicols}{2}
+\tableofcontents
+\end{multicols}
+
+
+\pagecolor{gray}\afterpage{\nopagecolor}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% THE WORLD MAP %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{worldmap}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% THE WORLD OF HAECKEL %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+\mainmatter
+
+\input{worldofhaeckel}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% CHARACTER CREATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\input{charactercreation}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% RACES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{races}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% CORE CLASSES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\input{coreclasses}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% PERSONALITY %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{personality}
+
+
+
+
+%\chapter{Regional Backgrounds}\label{regionalbackgrounds}
+%    \section{Ablon}
+%        \subsection{Fashion}
+%        \subsection{Stereotypes}
+%    \section{Abyssimiar}
+%            \subsection{Fashion}
+%            \subsection{Stereotypes}
+%    \section{Avalonia}
+%            \subsection{Fashion}
+%            \subsection{Stereotypes}
+%    \section{Brouliard}
+%            \subsection{Fashion}
+%            \subsection{Stereotypes}
+%    \section{Nes}
+%            \subsection{Fashion}
+%            \subsection{Stereotypes}
+%    \section{North Wall}
+%            \subsection{Fashion}
+%            \subsection{Stereotypes}
+%    \section{Midgaard}
+%            \subsection{Fashion}
+%            \subsection{Stereotypes}
+%    \section{Ubris Furor}
+%            \subsection{Fashion}
+%            \subsection{Stereotypes}
+            
+
+\include{campaignclasses}
+\newpage
+\chapter{Backgrounds}\label{backgrounds}
+
+
+\section{Social Class} The social class system is deeply entrenched in the world and has a fundamental influence on the character's upbringings. The nature of what each social class represents differs from Kingdom to Kingdom. Loosely however there are categories which can be classified. This book does not intend to go into detail on how each Kingdom's social class is like.
+
+A nice example of this point though is that in Abyssimiar the warrior class are part of the lower social classes, whereas in Midgaard the warrior class would more likely be in the middle social classes, whereas in Brouliard they are more likely to be in the Lower Upper Class.
+
+\begin{itemize}
+    \item Upper Upper Class (UUC)
+    \item Middle Upper Class (MUC)
+    \item Lower Upper Class (LUC)
+    \item Upper Middle Class (UMC)
+    \item Middle Middle Class (MMC)
+    \item Lower Middle Class (LMC)
+    \item Upper Lower Class (ULC)
+    \item Middle Lower Class (MLC)
+    \item Lower Lower Class (LLC)
+\end{itemize}
+
+\section{Family}
+\paragraph{How did your parents treat you?} Good, Okay, Bad.
+\paragraph{How many siblings do you have?} 1-9
+\paragraph{What are your relationships with them like?} Good, Bad
+\paragraph{Was you firstborn or what?} No, Yes, ...
+\paragraph{What is the situation with your family?} Good, Bad, Terrible, Glorious, Damned
+
+\include{feats}
+
+\include{faiths}
+
+\include{equipment}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% FRIENDS AND FOES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\include{friendsandfoes}
+
+\include{thecampaign}
+
+
+\appendix
+\include{examplesheets}
+\include{bookofvillains}
+\ClearShipoutPicture
+                   
+\end{document}
+This is never printed

@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{changepage}
+\usepackage{graphicx}
+\usepackage{lipsum}% just to automatically generate some text 
+
+\begin{document}
+
+\lipsum[1-4]
+
+\newpage
+
+%changing the page design temporarily
+\changepage{9cm}{9.4cm}{-4.7cm}{-4.7cm}{}{-4.5cm}{}{}{}
+%\noindent\rule{\textwidth}{\textheight}
+\includegraphics[width=\textwidth,height=\textheight]{Haeckel_Muscinae}
+\newpage
+
+%restoring the standard settings
+\changepage{-9cm}{-9.4cm}{4.7cm}{4.7cm}{}{4.5cm}{}{}{}
+\lipsum[1-4]
+
+\end{document}
