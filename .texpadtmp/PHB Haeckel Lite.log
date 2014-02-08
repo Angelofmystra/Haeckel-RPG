@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.25)  24 JAN 2014 06:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.25)  8 FEB 2014 18:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -688,61 +688,33 @@ e
 \openout2 = `worldmap.aux'.
 
 
-(./worldmap.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(0.0pt, 597.50787pt, 0.0pt)
-* v-part:(T,H,B)=(0.0pt, 743.6402pt, 101.40665pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=597.50787pt
-* \textheight=743.6402pt
-* \oddsidemargin=-72.26999pt
-* \evensidemargin=-72.26999pt
-* \topmargin=-102.33748pt
-* \headheight=12.0pt
-* \headsep=18.06749pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=128.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- <haeckelmap.jpg, id=64, 1240.635pt x 1148.29pt>
+(./worldmap.tex <haeckelmap.jpg, id=64, 1240.635pt x 1148.29pt>
 File: haeckelmap.jpg Graphic file (type jpg)
 
 <use haeckelmap.jpg>
-Package pdftex.def Info: haeckelmap.jpg used on input line 3.
-(pdftex.def)             Requested size: 597.50467pt x 553.03021pt.
-\GPT@outputbox=\box59
+Package pdftex.def Info: haeckelmap.jpg used on input line 6.
+(pdftex.def)             Requested size: 685.70207pt x 847.61871pt.
+
+Overfull \hbox (14.99268pt too wide) in paragraph at lines 6--7
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-
- <./haeckelmap.jpg>])
+] [2 <./haeckelmap.jpg>])
 \openout2 = `charactercreation.aux'.
 
- (./charactercreation.tex [2
+ (./charactercreation.tex
+\GPT@outputbox=\box59
+ [3
 
 
 
-
-
-] [3]
-(./madenrakstory.tex
+] (./madenrakstory.tex
 LaTeX Font Info:    Try loading font information for OT1+pzc on input line 3.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pzc.fd
@@ -764,63 +736,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ] (./briberyablonstory.tex) [8]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(0.0pt, 597.50787pt, 0.0pt)
-* v-part:(T,H,B)=(0.0pt, 743.6402pt, 101.40665pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=597.50787pt
-* \textheight=743.6402pt
-* \oddsidemargin=-72.26999pt
-* \evensidemargin=-72.26999pt
-* \topmargin=-102.33748pt
-* \headheight=12.0pt
-* \headsep=18.06749pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=128.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=24.0pt plus 8.0pt minus 8.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
 <Haeckel_Muscinae.jpg, id=126, 2354.7975pt x 3293.30376pt>
 File: Haeckel_Muscinae.jpg Graphic file (type jpg)
 
 <use Haeckel_Muscinae.jpg>
 Package pdftex.def Info: Haeckel_Muscinae.jpg used on input line 11.
-(pdftex.def)             Requested size: 597.5011pt x 835.6356pt.
- [9
+(pdftex.def)             Requested size: 685.71237pt x 847.5955pt.
 
-]
-Overfull \vbox (91.9954pt too high) has occurred while \output is active []
+Overfull \hbox (15.00298pt too wide) in paragraph at lines 11--12
+[][] 
+ []
 
-
-[10 <./Haeckel_Muscinae.jpg>] [11
-
-
-]) [12]
+[9 <./Haeckel_Muscinae.jpg>]) [10]
 \openout2 = `equipment.aux'.
 
- (./equipment.tex [13
+ (./equipment.tex [11
 
 
 
-]
-(./littlelordstory.tex) [14]
+] (./littlelordstory.tex) [12]
 Missing character: There is no â in font cmss10!
 Missing character: There is no € in font cmss10!
 Missing character: There is no ™ in font cmss10!
@@ -851,7 +785,7 @@ Missing character: There is no ™ in font cmss10!
 Missing character: There is no â in font cmss10!
 Missing character: There is no € in font cmss10!
 Missing character: There is no ™ in font cmss10!
- [15]
+ [13]
 Missing character: There is no â in font cmss10!
 Missing character: There is no € in font cmss10!
 Missing character: There is no ™ in font cmss10!
@@ -868,15 +802,14 @@ Missing character: There is no Â in font cmss10!
 Missing character: There is no   in font cmss10!
 Missing character: There is no Â in font cmss10!
 Missing character: There is no   in font cmss10!
- [16]) [17]
+ [14]) [15]
 \openout2 = `examplesheets.aux'.
 
- (./examplesheets.tex [18
+ (./examplesheets.tex [16
 
 
 
-] [19])
-[20]
+] [17]) [18]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
 
@@ -893,23 +826,23 @@ Package rerunfilecheck Info: File `"PHB Haeckel Lite".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
  ) 
 Here is how much of TeX's memory you used:
- 9624 strings out of 493315
- 139237 string characters out of 6137903
- 274449 words of memory out of 5000000
- 12886 multiletter control sequences out of 15000+600000
+ 9621 strings out of 493315
+ 139215 string characters out of 6137903
+ 279449 words of memory out of 5000000
+ 12885 multiletter control sequences out of 15000+600000
  8965 words of font info for 29 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 33i,12n,35p,914b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,12n,35p,914b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/t
 exlive/2013/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
 Output written on "/Users/bertrandbrompton/Documents/Haeckel PHB/.texpadtmp/PHB
- Haeckel Lite.pdf" (20 pages, 2741935 bytes).
+ Haeckel Lite.pdf" (18 pages, 2741092 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
- 91 named destinations out of 1000 (max. 500000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 89 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
