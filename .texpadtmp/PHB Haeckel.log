@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.25)  7 FEB 2014 11:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.25)  10 FEB 2014 20:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1104,7 +1104,7 @@ Overfull \hbox (15.04181pt too wide) in paragraph at lines 11--12
 
 
 ] [34]
-<minotaur_by_brianvadell.jpg, id=765, 1055.945pt x 761.84625pt>
+<minotaur_by_brianvadell.jpg, id=769, 1055.945pt x 761.84625pt>
 File: minotaur_by_brianvadell.jpg Graphic file (type jpg)
 
 <use minotaur_by_brianvadell.jpg>
@@ -1134,7 +1134,7 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
  (./feats.tex [40
 
 
-] [41] [42] <rakaarth4.jpg, id=831, 5018.75pt x 4015.0pt>
+] [41] [42] <rakaarth4.jpg, id=835, 5018.75pt x 4015.0pt>
 File: rakaarth4.jpg Graphic file (type jpg)
 
 <use rakaarth4.jpg>
@@ -1148,7 +1148,7 @@ Package pdftex.def Info: rakaarth4.jpg used on input line 45.
 
 
 ]
-[47] [48] <priestess.jpg, id=884, 314.3745pt x 409.1285pt>
+[47] [48] <priestess.jpg, id=888, 314.3745pt x 409.1285pt>
 File: priestess.jpg Graphic file (type jpg)
  <use priestess.jpg>
 Package pdftex.def Info: priestess.jpg used on input line 13.
@@ -1288,8 +1288,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 353.
  ) 
 Here is how much of TeX's memory you used:
- 11239 strings out of 493315
- 163242 string characters out of 6137903
+ 11243 strings out of 493315
+ 163290 string characters out of 6137903
  305415 words of memory out of 5000000
  13939 multiletter control sequences out of 15000+600000
  9265 words of font info for 30 fonts, out of 8000000 for 9000
@@ -1302,10 +1302,10 @@ exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
 Output written on "/Users/bertrandbrompton/Documents/Haeckel PHB/.texpadtmp/PHB
- Haeckel.pdf" (84 pages, 4689536 bytes).
+ Haeckel.pdf" (84 pages, 4690294 bytes).
 PDF statistics:
- 1323 PDF objects out of 1440 (max. 8388607)
- 1203 compressed objects within 13 object streams
- 548 named destinations out of 1000 (max. 500000)
+ 1327 PDF objects out of 1440 (max. 8388607)
+ 1207 compressed objects within 13 object streams
+ 552 named destinations out of 1000 (max. 500000)
  753 words of extra memory for PDF output out of 10000 (max. 10000000)
 
